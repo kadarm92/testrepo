@@ -1,2 +1,2 @@
-# testrepo1
+# testrepo
 Repo for testing Github. tesztelés
